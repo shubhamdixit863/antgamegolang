@@ -1,34 +1,23 @@
-# FOR AUDITOR
+# FOR DEVS
 
 Follow the following steps:
 
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Make sure you are in the project folder inside terminal
-- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) copy paste the below command in terminal:
+Make sure you are inside the project folder
+then run the below command to execute the test cases
 
 ```bash
 bash test.sh
 ```
 
 ```diff
-- __       _______ .___  ___.                __  .__   __. 
--|  |     |   ____||   \/   |               |  | |  \ |  | 
--|  |     |  |__   |  \  /  |     ______    |  | |   \|  | 
--|  |     |   __|  |  |\/|  |    |______|   |  | |  . `  | 
--|  `----.|  |____ |  |  |  |               |  | |  |\   | 
--|_______||_______||__|  |__|               |__| |__| \__| 
+LEM-IN, A DIGITAL VERSION OF ANT FARM
 ```
 
-## DIV-01 PROJECT
+## ASSIGNMENT
 
 by
 
 ```diff
-+ StewedSheep  
--      &       
-+  Xbanana24	
--      &       
-+  NeloSepo	
--      &       
-+  KristjanL	
+Kert Kompus 
 ```
 
